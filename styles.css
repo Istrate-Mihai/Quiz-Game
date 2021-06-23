@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+
+    margin: 0;
+
+}
+
+button {
+
+font-size: larger;
+color: blue;
+background-color: cornsilk;
+
+}
+
+
+#Question {
+
+    color: darkblue;
+    font-size: 30px;
+
+}
