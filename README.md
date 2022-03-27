@@ -1,2 +1,1 @@
-# Quiz-Game
-Intermediate level javascript game consisting of 10 questions.
+A JS Quiz Game consisting of 10 questions.
